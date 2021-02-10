@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyApp4MaterialKotlin</string>
+    <string name="action_mail">act_mail</string>
+    <string name="action_delete">act_delete</string>
+    <string name="action_archieve">act_archiv</string>
+    <string name="action_archive">act_archiv</string>
+    <string name="toggle_fab_string">FAB</string>
+    <string name="primary_screen_text">Первое окно</string>
+    <string name="secondary_screen_text">Secondary окно</string>
+    <string name="bottom_sheet_name">sheet_name</string>
+    <string name="bottom_sheet_email">sheet_email</string>
+    <string name="nav_item1">item1</string>
+    <string name="nav_item2">item2</string>
+    <string name="nav_item3">item3</string>
+    <string name="nav_item4">item4</string>
+    <string name="nav_item5">item5</string>
+    <string name="nav_item6">item6</string>
+    <string name="nav_item7">item7</string>
+    <string name="nav_item8">item8</string>
+    <string name="nav_item9">item9</string>
+    <string name="nav_item10">item10</string>
+    <string name="nav_item11">item11</string>
+    <string name="nav_item12">item12</string>
+    <string name="nav_item13">item13</string>
+    <string name="action_search">search</string>
+</resources>
